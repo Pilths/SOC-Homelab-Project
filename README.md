@@ -20,7 +20,29 @@ The goal is to gain practical experience relevant to SOC Analyst and IT Infrastr
 </p>
 
 
-## Installation Problems and Troubleshooting 
+## Technologies & Tools Used
+
+### Host Environment
+- **Windows 11** – Primary host machine
+- **Wazuh Agent** – Endpoint monitoring agent installed on host
+
+### Virtualization Layer
+- **VirtualBox**
+- **Ubuntu Server 24.04 LTS (Noble Numbat)** with Xubuntu Desktop Environment
+
+### Containerization Platform
+- **Docker Engine** – Container runtime environment
+- **Portainer** – Web-based Docker management interface
+
+### Security & Monitoring Stack
+- **Wazuh (Single-Node Deployment)** – SIEM platform (Manager, Indexer, Dashboard)
+- **Suricata** – Network Intrusion Detection System (IDS)
+- **DVWA (Damn Vulnerable Web Application)** – Test web application
+- **Nginx Proxy Manager** – Reverse proxy and service routing
+- **UFW (Uncomplicated Firewall)** – Host-based firewall configuration
+
+## Challenge Faced
+
 
 ### Issue 1: Docker Image not found
 
