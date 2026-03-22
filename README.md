@@ -34,16 +34,16 @@ The goal is to gain practical experience relevant to SOC Analyst and IT Infrastr
 - **Docker Engine** – Container runtime environment
 - **Portainer** – Web-based Docker management interface
 
-### Security & Monitoring Stack
+### Security & Monitoring Stack (Current Progress)
 - **Wazuh (Single-Node Deployment)** – SIEM platform (Manager, Indexer, Dashboard)
 - **Suricata** – Network Intrusion Detection System (IDS)
 - **DVWA (Damn Vulnerable Web Application)** – Test web application
 - **Nginx Proxy Manager** – Reverse proxy and service routing
 - **UFW (Uncomplicated Firewall)** – Host-based firewall configuration
 
-## Challenge Faced
+### Security & Monitoring Stack (Current Progress)
+- **Suricata** – Network Intrusion Detection System (IDS)
+- **DVWA (Damn Vulnerable Web Application)** – Test web application
+- **Nginx Proxy Manager** – Reverse proxy and service routing
+- **UFW (Uncomplicated Firewall)** – Host-based firewall configuratio
 
-
-### Issue 1: Docker Image not found
-
-### Issue 2: OpenSearch Parameter
